@@ -1,0 +1,19 @@
+# Fraud Detection using Transaction Behavior Analysis
+
+## Problem
+Identify suspicious transactions based on abnormal spending behavior.
+
+## Approach
+- Analyzed transaction amounts to detect unusual patterns
+- Created threshold-based rule to flag high-value transactions
+- Added behavioral condition (transaction time) to improve accuracy
+
+## Result
+- Initial suspicious cases: 97
+- After refinement: 81
+- Reduced unnecessary alerts by improving detection logic
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
